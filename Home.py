@@ -109,7 +109,7 @@ st.write("---") # Adiciona uma linha divisória
 
 st.write (
     """
-    - ✅ 2 years of internship at Embraer working with data analisys and software development
+    - ✅ 2 years of internship at Embraer working with data analysis and software development
     - ✅ Great experience with Power Platform, SQL, and data visualization tools, such as Power BI
     - ✅ Good understanding of statistical principles and their application
     - ✅ Excellent team player, display strong communication skills and sense of initiative on tasks
